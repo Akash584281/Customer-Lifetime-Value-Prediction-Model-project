@@ -43,6 +43,9 @@ amount – Purchase amount
 The dataset contains multiple transactions per customer, which helps in calculating behavioral metrics.
 
 🔧 Project Workflow
+
+
+
 1️⃣ Data Preprocessing
 
 Loaded transaction data
