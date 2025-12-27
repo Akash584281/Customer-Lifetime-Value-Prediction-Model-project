@@ -1,5 +1,8 @@
 # Customer-Lifetime-Value-Prediction-Model-project
 📊 Customer Lifetime Value (LTV) Prediction Model
+
+
+
 📌 Project Overview
 
 Customer Lifetime Value (LTV) represents the total revenue a business can expect from a customer over the entire duration of their relationship.
